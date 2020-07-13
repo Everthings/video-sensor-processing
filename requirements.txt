@@ -1,1 +1,4 @@
+opencv-python
+opencv-contrib-python
 tensorflow
+flow_vis
